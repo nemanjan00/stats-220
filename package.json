@@ -1,0 +1,10 @@
+{
+  "name": "stats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nemanja Nedeljkovic <nemanjan00@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
